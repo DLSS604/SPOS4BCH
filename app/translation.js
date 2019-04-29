@@ -2,6 +2,7 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
   "payment_modal_amount": {
     "en": "Amount",
 
+    "ca": "Quantitat",
     "cz": "",
     "de": "Betrag",
     "dk": "",
@@ -10,16 +11,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "ចំនួន",
+    "lt": "Suma",
     "nl": "Bedrag",
     "no": "",
-    "ms": "",
+    "ms": "Jumlah",
     "pl": "",
-    "pt": "",
-    "sv": "Belopp"
+    "pt": "Quantia",
+    "sv": "Belopp",
+    "tr": "",
+    "vn": "Số Tiền",
+    "zh": "数目"
   },
   "payment_modal_discount": {
     "en": "Discount",
 
+    "ca": "Descompte",
     "cz": "",
     "de": "Rabatt",
     "dk": "",
@@ -28,16 +34,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "បញ្ចុះតម្លៃ",
+    "lt": "Nuolaida",
     "nl": "Korting",
     "no": "",
-    "ms": "",
+    "ms": "Diskaun",
     "pl": "",
-    "pt": "",
-    "sv": "Rabatt"
+    "pt": "Desconto",
+    "sv": "Rabatt",
+    "tr": "",
+    "vn": "Chiết Khấu",
+    "zh": "折扣"
   },
   "payment_modal_total_currency": {
     "en": "Total",
 
+    "ca": "Total",
     "cz": "",
     "de": "Gesamtsumme",
     "dk": "",
@@ -46,16 +57,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "សរុប",
+    "lt": "Iš viso",
     "nl": "Totaal",
     "no": "",
-    "ms": "",
+    "ms": "Jumlah Keseluruhan",
     "pl": "",
-    "pt": "",
-    "sv": "Summa"
+    "pt": "Total",
+    "sv": "Summa",
+    "tr": "",
+    "vn": "Tổng Tiền",
+    "zh": "总额"
   },
   "payment_modal_rate": {
     "en": "Exchange rate",
 
+    "ca": "Taxa de canvi",
     "cz": "",
     "de": "Wechselkurs",
     "dk": "",
@@ -64,16 +80,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "អត្រា​ប្តូ​រ​ប្រាក់",
+    "lt": "Valiutos kursas",
     "nl": "Wisselkoers",
     "no": "",
-    "ms": "",
+    "ms": "Kadar Penukaran",
     "pl": "",
-    "pt": "",
-    "sv": "Växlingskurs"
+    "pt": "Taxa de câmbio",
+    "sv": "Växlingskurs",
+    "tr": "",
+    "vn": "Tỷ Giá",
+    "zh": "汇率"
   },
   "payment_modal_total_payment": {
     "en": "Pay",
 
+    "ca": "Pagar",
     "cz": "",
     "de": "Zahlen",
     "dk": "",
@@ -82,16 +103,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "ទូទាត់",
+    "lt": "Mokėti",
     "nl": "Betalen",
     "no": "",
-    "ms": "",
+    "ms": "Bayar",
     "pl": "",
-    "pt": "",
-    "sv": "Betala"
+    "pt": "A pagar",
+    "sv": "Betala",
+    "tr": "",
+    "vn": "Thanh Toán",
+    "zh": "支付"
   },
   "pay_button": {
     "en": "Pay",
 
+    "ca": "Pagar",
     "cz": "",
     "de": "Zahlen",
     "dk": "",
@@ -100,16 +126,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "ទូទាត់",
+    "lt": "Mokėti",
     "nl": "Betalen",
     "no": "",
-    "ms": "",
+    "ms": "Butang Bayar",
     "pl": "",
-    "pt": "",
-    "sv": "Betala"
+    "pt": "Pagar",
+    "sv": "Betala",
+    "tr": "",
+    "vn": "Thanh Toán",
+    "zh": "支付"
   },
   "meta_title": {
     "en": "Simple Point of Sale for Bitcoin Cash",
 
+    "ca": "Senzill Punt de Venda per Bitcoin Cash",
     "cz": "",
     "de": "Einfache Verkaufsstelle für Bitcoin Cash",
     "dk": "",
@@ -118,16 +149,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "ចំណុចសាមញ្ញនៃការលក់សម្រាប់ Bitcoin Cash",
+    "lt": "Bitcoin Cash mokėjimų sistema",
     "nl": "Eenvoudig verkooppunt voor Bitcoin Cash",
     "no": "",
-    "ms": "",
+    "ms": "Satu Sistem Pembayaran Mudah untuk Bitcoin Cash",
     "pl": "",
-    "pt": "",
-    "sv": "Enkel Kassa för Bitcoin Cash"
+    "pt": "Ponto de Venda Simples para Bitcoin Cash",
+    "sv": "Enkel Kassa för Bitcoin Cash",
+    "tr": "",
+    "vn": "Cổng Thanh Toán dùng Bitcoin Cash",
+    "zh": "简单的比特现金销售点"
   },
   "payment_status_tx_details": {
     "en": "See transaction details",
 
+    "ca": "Veure detalls de la traducció",
     "cz": "",
     "de": "Siehe Transaktionsdetails",
     "dk": "",
@@ -136,16 +172,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "មើលព័ត៌មានប្រតិបត្តិការលម្អិត",
+    "lt": "Peržiūrėti mokėjimo informaciją",
     "nl": "Zie Transactie details",
     "no": "",
-    "ms": "",
+    "ms": "Sila Lihat Maklumat Transaksi",
     "pl": "",
-    "pt": "",
-    "sv": "Visa transaktionsdetaljer"
+    "pt": "Ver detalhes da transação",
+    "sv": "Visa transaktionsdetaljer",
+    "tr": "",
+    "vn": "Chi tiết về giao dịch",
+    "zh": "请看交易内容"
   },
   "order_title": {
     "en": "Payment Request",
 
+    "ca": "Solicitud de pagament",
     "cz": "",
     "de": "Zahlungsaufforderung",
     "dk": "",
@@ -154,34 +195,44 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "សំណើទូទាត់",
+    "lt": "Mokėjimo pareikalavimas",
     "nl": "Betalings Verzoek",
     "no": "",
-    "ms": "",
+    "ms": "Permohonan Pembayaran",
     "pl": "",
-    "pt": "",
-    "sv": "Betalförfrågan"
+    "pt": "Solicitação de pagamento",
+    "sv": "Betalförfrågan",
+    "tr": "",
+    "vn": "Yêu Cầu Thanh Toán",
+    "zh": "付款要求"
   },
   "payment_modal_title": {
     "en": "Pay with Bitcoin Cash [BCH]",
 
+    "ca": "Pagar amb Bitcoin Cash [BCH]",
     "cz": "",
     "de": "Zahlen mit Bitcoin Cash [BCH]",
     "dk": "",
     "es": "Pagar con Bitcoin Cash [BCH]",
-    "fi": "Maksa Bitcoin Cashilla (BCH)",
+    "fi": "Maksa Bitcoin Cashilla [BCH]",
     "fr": "",
     "jp": "",
     "kh": "ទូទាត់ជាមួយ Bitcoin Cash [BCH]",
+    "lt": "Apmokėti su Bitcoin Cash [BCH]",
     "nl": "Betalen met Bitcoin Cash [BCH]",
     "no": "",
-    "ms": "",
+    "ms": "Bayar Dengan Bitcoin Cash [BCH]",
     "pl": "",
-    "pt": "",
-    "sv": "Betala med Bitcoin Cash [BCH]"
+    "pt": "Pagar com Bitcoin Cash [BCH]",
+    "sv": "Betala med Bitcoin Cash [BCH]",
+    "tr": "",
+    "vn": "Trả bằng Bitcoin Cash [BCH]",
+    "zh": "使用比特现金[BCH]来支付"
   },
   "payment_status_disconnected": {
     "en": "Disconnected. Reconnecting...",
 
+    "ca": "Desconectat. Restablint la conecció...",
     "cz": "",
     "de": "Getrennt. Wiederverbinden...",
     "dk": "",
@@ -190,16 +241,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "បានផ្តាច់. កំពុងតភ្ជាប់ឡើងវិញ...",
+    "lt": "Atsijungta. Jungiamasi iš naujo...",
     "nl": "Verbinding verbroken. Herverbinden...",
     "no": "",
-    "ms": "",
+    "ms": "Talian Terputus, Penyambungan Semula...",
     "pl": "",
-    "pt": "",
-    "sv": "Anslutning bruten. Återansluter..."
+    "pt": "Desconectado. Reconectando...",
+    "sv": "Anslutning bruten. Återansluter...",
+    "tr": "",
+    "vn": "Kết nối bị ngắt. Đang kết nối lại...",
+    "zh": "掉线状态。正在重新连接..."
   },
   "payment_status_waiting": {
     "en": "Waiting for payment...",
 
+    "ca": "Esperant pagament...",
     "cz": "",
     "de": "Warten auf Zahlung...",
     "dk": "",
@@ -208,16 +264,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "រង់ចាំការទូទាត់...",
+    "lt": "Laukiama mokėjimo...",
     "nl": "Wachten op Betaling...",
     "no": "",
-    "ms": "",
+    "ms": "Menanti Penerimaan Pembayaran...",
     "pl": "",
-    "pt": "",
-    "sv": "Väntar på betalning..."
+    "pt": "Aguardando pagamento...",
+    "sv": "Väntar på betalning...",
+    "tr": "",
+    "vn": "Đang đợi giao dịch...",
+    "zh": "等待款项..."
   },
   "payment_status_complete": {
     "en": "Payment Success!",
 
+    "ca": "Pagament realitzat amb èxit!",
     "cz": "",
     "de": "Zahlung erfolgreich!",
     "dk": "",
@@ -226,16 +287,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "ការទូទាត់ជោគជ័យ!",
+    "lt": "Mokėjimas atliktas!",
     "nl": "Betaling Succesvol!",
     "no": "",
-    "ms": "",
+    "ms": "Pembayaran Berjaya!",
     "pl": "",
-    "pt": "",
-    "sv": "Betalning slutförd!"
+    "pt": "Pagamento realizado!",
+    "sv": "Betalning slutförd!",
+    "tr": "",
+    "vn": "Thanh toán thành công!",
+    "zh": "支付成功！"
   },
   "payment_status_rbf": {
     "en": "WARNING! Replace By Fee - Please wait for 1 confirmation.",
 
+    "ca": "ATENCIÓ! Pagament encara no segur - Si us plau, esperi 1 confirmació",
     "cz": "",
     "de": "WARNUNG! Replace by Fee - Bitte warten Sie auf 1 Bestätigung",
     "dk": "",
@@ -244,16 +310,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "ការព្រមាន! ជំនួសដោយកម្រៃសេវា -  សូមរង់ចាំការបញ្ជាក់មួយ.",
+    "lt": "DĖMESIO! Naudojamas Replace By Fee - palaukite 1 patvirtinimo.",
     "nl": "WAARSCHUWING! Replace By Fee - Gelieve te wachten op 1 bevestiging.",
     "no": "",
-    "ms": "",
+    "ms": "AMARAN! Diganti dengan Fi - Sila Tunggu 1 Pengesahan.",
     "pl": "",
-    "pt": "",
-    "sv": "VARNING! Osäker betalning, invänta bekräftelse på blockkjedjan."
+    "pt": "AVISO! Replace By Fee - Favor aguardar uma confirmação",
+    "sv": "VARNING! Osäker betalning, invänta bekräftelse på blockkjedjan.",
+    "tr": "",
+    "vn": "Lưu ý! Giao dịch có Replace-By-Fee - Xin đợi ít nhất 1 xác nhận",
+    "zh": "警告！费用替代法 - 请等候一个确认。"
   },
   "payment_status_low_fee": {
     "en": "WARNING! Low Fee Detected - Please wait for 1 confirmation.",
 
+    "ca": "ATENCIÓ! S'ha detectat una tarifa massa baixa - Esperi 1 confirmació",
     "cz": "",
     "de": "WARNUNG! Niedrige Gebühr erkannt - Bitte warten Sie auf 1 Bestätigung",
     "dk": "",
@@ -262,16 +333,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "ការព្រមាន! តម្លៃរកឃើញទាប - សូមរង់ចាំការបញ្ជាក់មួយ.",
+    "lt": "DĖMESIO! Mažas mokėjimo siuntimo mokestis - palaukite 1 patvirtinimo.",
     "nl": "WAARSCHUWING! Lage Fee Gedetecteerd - Gelieve te wachten op 1 bevestiging.",
     "no": "",
-    "ms": "",
+    "ms": "AMARAN! Fi Rendah Dikesan -Sila Tunggu 1 Pengesahan.",
     "pl": "",
-    "pt": "",
-    "sv": "VARNING! För låg avgift, invänta bekräftelse på blockkjedjan."
+    "pt": "AVISO! Tarifa baixa - Favor aguardar uma confirmação.",
+    "sv": "VARNING! För låg avgift, invänta bekräftelse på blockkjedjan.",
+    "tr": "",
+    "vn": "Lưu Ý! Phí giao dịch thấp - Xin đợi ít nhất 1 xác nhận",
+    "zh": "警告！检测到低费用 - 请等候一个确认。"
   },
   "app_status_rate_fetch": {
     "en": "Fetching exchange rate...",
 
+    "ca": "Obtinguent tarifa de canvi...",
     "cz": "",
     "de": "Wechselkurs wird abgerufen...",
     "dk": "",
@@ -280,16 +356,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "កំពុង​ស្វែងរកអត្រាប្តូរប្រាក់...",
+    "lt": "Parsiunčiamas valiutos kursas...",
     "nl": "Wisselkoers word opgevraagd...",
     "no": "",
-    "ms": "",
+    "ms": "Kadar Penukaran Sedang Didapatkan...",
     "pl": "",
-    "pt": "",
-    "sv": "Hämtar växlingskurs..."
+    "pt": "Obtendo taxa de câmbio...",
+    "sv": "Hämtar växlingskurs...",
+    "tr": "",
+    "vn": "Lấy thông tin về tỷ giá...",
+    "zh": "正在获取汇率..."
   },
   "app_status_rate_expired": {
     "en": "Updating exchange rate...",
 
+    "ca": "Actualitzant la tarifa de canvi...",
     "cz": "",
     "de": "Wechselkurs wird aktualisiert...",
     "dk": "",
@@ -298,16 +379,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "កំពុងធ្វើបច្ចុប្បន្នភាពអត្រាប្តូរប្រាក់...",
+    "lt": "Atnaujinamas valiutos kursas...",
     "nl": "Wisselkoers word bijgewerkt...",
     "no": "",
-    "ms": "",
+    "ms": "Kadar Penukaran Sedang di Kemaskini...",
     "pl": "",
-    "pt": "",
-    "sv": "Uppdaterar växlingskurs..."
+    "pt": "Atualizando taxa de câmbio...",
+    "sv": "Uppdaterar växlingskurs...",
+    "tr": "",
+    "vn": "Đang cập nhật tỷ giá...",
+    "zh": "正在更新汇率..."
   },
   "app_status_connecting": {
     "en": "Connecting...",
 
+    "ca": "Connectant...",
     "cz": "",
     "de": "Verbinden...",
     "dk": "",
@@ -316,16 +402,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "កំពុងតភ្ជាប់...",
+    "lt": "Jungiamasi...",
     "nl": "Verbinden...",
     "no": "",
-    "ms": "",
+    "ms": "Sedang Disambung...",
     "pl": "",
-    "pt": "",
-    "sv": "Ansluter..."
+    "pt": "Conectando...",
+    "sv": "Ansluter...",
+    "tr": "",
+    "vn": "Đang kết nối...",
+    "zh": "正在连接..."
   },
   "app_status_reconnecting": {
     "en": "Disconnected. Reconnecting...",
 
+    "ca": "Desconectat. Tornant a Establir la Connexió...",
     "cz": "",
     "de": "Getrennt. Wiederverbinden...",
     "dk": "",
@@ -334,16 +425,21 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "បានផ្តាច់. កំពុងតភ្ជាប់ឡើងវិញ...",
+    "lt": "Atsijungta. Jungiamasi iš naujo...",
     "nl": "Verbinding verbroken. Herverbinden...",
     "no": "",
-    "ms": "",
+    "ms": "Talian Terputus. Penyambungan Semula...",
     "pl": "",
-    "pt": "",
-    "sv": "Anslutning bruten. Återansluter..."
+    "pt": "Desconectado. Reconectando...",
+    "sv": "Anslutning bruten. Återansluter...",
+    "tr": "",
+    "vn": "Kết nối bị ngắt. Đang kết nối lại...",
+    "zh": "掉线状态。正在重新连接..."
   },
   "app_validation_amount": {
     "en": "Enter valid amount.",
 
+    "ca": "Introdueixi una quantitat vàlida",
     "cz": "",
     "de": "Gültigen betrag eingeben.",
     "dk": "",
@@ -352,11 +448,15 @@ let SPOS_LANGUAGE = { // eslint-disable-line no-unused-vars
     "fr": "",
     "jp": "",
     "kh": "បញ្ចូលចំនួនទឹកប្រាក់ដែលត្រឹមត្រូវ.",
+    "lt": "Įveskite teisingą sumą.",
     "nl": "Geldig bedrag invoeren.",
     "no": "",
-    "ms": "",
+    "ms": "Sila Masukkan Jumlah Yang Tepat.",
     "pl": "",
-    "pt": "",
-    "sv": "Ange korrekt belopp."
+    "pt": "Introduza uma quantia válida.",
+    "sv": "Ange korrekt belopp.",
+    "tr": "",
+    "vn": "Điền số tiền hợp lệ.",
+    "zh": "请输入有效数目。"
   }
 };
